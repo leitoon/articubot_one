@@ -58,7 +58,7 @@ Visualization Manager:
           Value: true
         face_link:
           Value: true
-        laser_frame:
+        laser:
           Value: true
         left_wheel:
           Value: true
@@ -82,7 +82,7 @@ Visualization Manager:
                 {}
               face_link:
                 {}
-              laser_frame:
+              laser:
                 {}
             left_wheel:
               {}
@@ -136,7 +136,7 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        laser_frame:
+        laser:
           Alpha: 1
           Show Axes: false
           Show Trail: false
